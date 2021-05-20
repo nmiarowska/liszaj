@@ -1,0 +1,2 @@
+C:\Users\qwert\source\repos\liszaj_projekt_cpp\Debug\liszaj_projekt_cpp.exe
+C:\Users\qwert\source\repos\liszaj_projekt_cpp\Debug\liszaj_projekt_cpp.pdb
